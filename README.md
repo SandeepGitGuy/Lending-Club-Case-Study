@@ -20,7 +20,7 @@
 ## Conclusions
 - We were able to efficiently and accurately clean data that were extract.
 - We were able to perform Univariate and Segmented Univariate Analysis to find insights in the data.
-- We were able to perform Bivariate to find insights in the data and to find relation betwwen data.
+- We were able to perform Bivariate to find insights in the data and to find relation between data.
 - We were able to find and analyse some of the driving factors for loan Defaults and also show the same in visual format.
 
 
