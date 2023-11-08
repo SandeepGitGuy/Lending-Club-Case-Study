@@ -4,12 +4,11 @@
 
 
 ## Table of Contents
-* [General Info](The lending industry is constantly evolving, facing numerous challenges such as increasing default rates and changing customer preferences. Understanding these challenges is essential for successful loan approval processes.)
-* [Technologies Used](Python, Jupyter, Anaconda, Pandas, Numpy, Plotly, Matplotlib, Git)
-* [Conclusions](EDA is a powerful tool for improving loan approval decisions. By understanding customer attributes and loan data, financial institutions can mitigate risks and make more informed lending choices.)
+* General Info - The lending industry is constantly evolving, facing numerous challenges such as increasing default rates and changing customer preferences. Understanding these challenges is essential for successful loan approval processes.
+* Technologies Used - Python, Jupyter, Anaconda, Pandas, Numpy, Plotly, Matplotlib, Git
+* Conclusions - EDA is a powerful tool for improving loan approval decisions. By understanding customer attributes and loan data, financial institutions can mitigate risks and make more informed lending choices.
 
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Exploratory Data analysis plays a crucial role in Loan lending. By leveraging data, financial institutions can gain valuable insights into customer behavior, loan performance, and market trends, enabling them to make informed decisions.The goal of this analysis is to develop insights that can be used to predict whether a new loan applicant is likely to default.
@@ -44,4 +43,4 @@
 
 
 ## Contact
-Created by [@SandeepGitGuy] and [@NishanthAV] - feel free to contact me!
+Created by [@SandeepGitGuy] and [@NishanthAV] - feel free to contact us!
