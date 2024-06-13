@@ -1,6 +1,6 @@
 # Lending Club Case Study
 
-> Exploratory Data Analysis (EDA) is a crucial process in the financial industry, particularly lending. This project involves analyzing patterns in customer attributes and loan data to make informed loan approval decisions.
+> Exploratory Data Analysis (EDA) is a crucial process in the financial industry, particularly in lending. This project involves analyzing patterns in customer attributes and loan data to make informed loan approval decisions.
 
 ## Table of Contents
 1. [General Information](#general-information)
@@ -12,7 +12,7 @@
 7. [Contact](#contact)
 
 ## General Information
-- **Project Objective:** This analysis aims to develop insights that can be used to predict whether a new loan applicant is likely to default.
+- **Project Objective:** The goal of this analysis is to develop insights that can be used to predict whether a new loan applicant is likely to default.
 - **Importance of EDA in Lending:** By leveraging data, financial institutions can gain valuable insights into customer behaviour, loan performance, and market trends, enabling them to make informed decisions.
 - **Industry Challenges:** The lending industry is constantly evolving and faces numerous challenges such as increasing default rates and changing customer preferences. Understanding these challenges is essential for successful loan approval processes.
 - **Company Context:** A consumer finance company is looking for patterns in customer and loan attributes that are associated with loan defaults. Identifying these patterns can improve loan approval decisions and mitigate risks.
@@ -42,4 +42,16 @@
 - **Data Cleaning:** Efficiently and accurately cleaned the extracted data.
 - **Insights from Univariate Analysis:** Identified key trends and outliers in individual variables.
 - **Insights from Segmented Univariate Analysis:** Gained understanding of how different customer segments behave.
-- **Insights from Bivariate Analysis:** Di
+- **Insights from Bivariate Analysis:** Discovered relationships between variables and identified factors driving loan defaults.
+- **Visualizations:** Provided visual summaries of findings to facilitate decision-making.
+
+## Acknowledgements
+- **Resources Utilized:**
+  - [Google](https://www.google.com)
+  - [Stack Overflow](https://stackoverflow.com)
+  - [Plotly](https://plotly.com)
+  - [YouTube](https://www.youtube.com)
+  - [UpGrad](https://www.upgrad.com)
+
+## Contact
+Created by [@SandeepGitGuy](https://github.com/SandeepGitGuy) and [@NishanthAV](https://github.com/NishanthAV) - feel free to contact us!
